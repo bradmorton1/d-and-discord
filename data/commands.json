@@ -1,0 +1,12 @@
+[
+  {
+      "index": 1,
+      "name": "other",
+      "message": "type *help to see a list of possible commands"
+  },
+  {
+    "index": 2,
+    "name": "help",
+    "message": "```welcome to D&Discord! Here's a list of some useful commands:\\n\\n*randomise [classname] [level] - generates a random D&D character. Add a class name to generate a character with a specific class. Add a level to create a character at that level. This character will then become your current character\\n*print - prints out the stats of your current character\\n\\n*rename [name] - renames your current character.\\n\\n*save - saves your current character to a list for later\\n\\n*myCharacters - prints a list of your saved characters\\n\\n*delete [name] - deletes character from saved list\\n\\n*levelUp - adds a level to your character, rolling health\\n\\n*credits - prints information about the creator```"
+  }
+]

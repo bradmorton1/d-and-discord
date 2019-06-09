@@ -1,0 +1,11 @@
+{
+  "name": "d-and-discord",
+  "version": "1.0.0",
+  "description": "Discord bot for randomly generating D&D characters",
+  "main": "./src/bot.js",
+  "author": "Brad Morton",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.2.1"
+  }
+}
