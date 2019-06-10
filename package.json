@@ -4,8 +4,19 @@
   "description": "Discord bot for randomly generating D&D characters",
   "main": "./src/bot.js",
   "author": "Brad Morton",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bradmorton1/d-and-discord.git"
+  },
+  "license": "MIT",
   "dependencies": {
     "discord.io": "^2.5.3",
     "winston": "^3.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
   }
 }
